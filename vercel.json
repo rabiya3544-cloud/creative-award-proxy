@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/nominees.js": {
+      "maxDuration": 10
+    }
+  }
+}
